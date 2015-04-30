@@ -1,0 +1,20 @@
+* {
+    color: darkred;
+}
+
+#map {
+    height: 400px;
+    width: 800px;
+    margin-bottom: 10px;
+}
+
+table, tr, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr, th, td {
+    width: 100px;
+    padding: 10px;
+}
