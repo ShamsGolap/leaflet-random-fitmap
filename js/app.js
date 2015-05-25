@@ -14,8 +14,6 @@
         '?access_token=pk.eyJ1Ijoic2hhbXNnb2xhcCIsImEiOiJ1LVdRemlzIn0.5eXoqE6_a8YE1zLKmKtKAg';
 
     app.controller('map', ['$scope', function (self) {
-        self.truc = 'salut';
-
         var // Private functions
             initMap,
             generateCoordinates,
